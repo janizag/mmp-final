@@ -1,0 +1,54 @@
+@charset "UTF-8";
+/* CSS Document */
+
+nav a:link{
+	color: #999;
+	text-decoration: none;
+	font-family: "Courier New", Courier, monospace;
+}
+
+nav a:hover{
+	color: #CAB384;
+	text-decoration: none;
+	font-size: 32px;
+	font-family: "Courier New", Courier, monospace;
+}
+
+nav a:active{
+	text-decoration: none;
+	color: #CCB482;
+}
+
+nav a:visited{
+	text-decoration: none;
+	color: #666;
+}
+
+	a:link{
+	text-decoration: none;
+	color: #999;
+}
+	a:visited:{
+	text-decoration: none;
+	color: #666;
+}
+	a:hover{
+	text-decoration: none;
+	color: #CAB384;
+}
+
+h2. h3{
+	font-size: 14px;
+	text-align: center;
+	margin: 0px;
+	padding: 0px;
+
+}
+
+h4{
+	font-size: 12px;
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+	font-family: Verdana;
+}
